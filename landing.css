@@ -1,0 +1,17 @@
+html {
+    font-family: "sans-serif", serif, cursive;
+}
+
+body {
+    background: #CC1625;
+    color: #FFF702;
+}
+
+#side {
+    padding: 5px;
+    float: left;
+    background-color: #B2AE13;
+    border-radius: 40px;
+    border-style: double;
+    
+}

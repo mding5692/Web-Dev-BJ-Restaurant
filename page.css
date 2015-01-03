@@ -1,0 +1,53 @@
+body {
+    background-color: brown;
+    color: #333;
+}
+
+#myCarousel {
+    
+    width:1000px;
+    float;
+    padding: 10px;
+    margin: 50px;
+    margin-top: 5px;
+    border-width: 1px;
+    border-radius: 20px;
+    color: #AF3067;
+    left: 10%;
+}
+
+.carousel-caption {
+    color: maroon;   
+}
+
+.btn .btn-lg .btn-primary {
+    background-color: #AF3067;   
+}
+
+
+.jumbotron {
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+#intro {
+    padding: 20px;
+    top: 40%;
+    margin: 30px;
+    border-style: double;
+    border-top-width: 1px;
+    border-bottom-width: 1px; 
+    border-top-left-radius: 20px;
+}
+
+.picture {
+    background-image: url(table_three.jpg);  
+    height: 100px;
+    width: auto;
+    margin: 40px;
+    color: white;
+}
+.p {
+    text-align: center;   
+}
